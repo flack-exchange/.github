@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/v4G4WbS/User-support.png" alt="Flack.Exchange" />
 </h1>
 
-## Flack Exchange! 🥷
+## Flack Exchange!
 
 - 🦔 Building  [Flack.Exchange]([https://flack.exchange/]) 
 
